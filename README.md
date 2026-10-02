@@ -21,6 +21,7 @@ These files will enable an intuitive graphical representation of the complex bio
 **Barplot:** R script for creating a bar chart with omics data. This analysis used in-house proteomics data to generate the bar plot with error bars to assess the precise measurement.
 
 **RankPlot:** R script for creating a protein rank abundance curve. 
+It is a protein rank abundance plot (or rank-abundance curve) that displays proteins ordered by their abundance or signal intensity along the x-axis (from highest to lowest ranked) against their expression values or log2 intensities on the y-axis. It gives a quick snapshot of the dynamic range of your proteomics experiment (for e.g. seum or plasma proteome) and highlights key landmark proteins (e.g., highly abundant structural proteins vs. low-abundance regulatory proteins/transcription factors).
 
 **BoxPlot:** R script used for creating box plots. This graph helps in elucidating the distribution of expression values for proteins (in this case coefficient of variation values associated with different LC-MS/MS gradients.
 
